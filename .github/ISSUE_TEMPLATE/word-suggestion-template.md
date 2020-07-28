@@ -1,7 +1,7 @@
 ---
 name: Word Suggestion Template
 about: Use this template to suggest a word for the wordlist
-title: "[NEW_WORD]"
+title: "[NEW_WORD] {replace this text with the word you are suggesting}"
 labels: new_word
 assignees: emckean
 

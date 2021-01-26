@@ -10,5 +10,5 @@ Open an [issue](https://github.com/wordnik/wordlist/issues)!
 A full JSON dataset including definitions, parts-of-speech, frequency information, and labeling of offensive or derogatory terms is available for a one-time license fee for single or multiple games at [developer.wordnik.com](https://developer.wordnik.com/pricing#gameset).
 
 ## Donate
-Help support Wordnik's nonprofit mission to find and share all the words of English by donating at [bit.ly/donatenik](bit.ly/donatenik).  
+Help support Wordnik's nonprofit mission to find and share all the words of English by donating at [https://bit.ly/donatenik](bit.ly/donatenik).  
 Wordnik is a 501(c)3 nonprofit organization.
